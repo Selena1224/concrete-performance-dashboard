@@ -4,6 +4,7 @@
 
 **[Explore the Live Dashboard](https://concretemixinsights2026.streamlit.app/)** | [View the Analytical Notebooks](notebooks/)
 
+> ⏳ **Loading Note:** This dashboard may take about a minute to load after a period of inactivity while the server starts. Please keep the page open—it will load automatically.
 ## The Business Question
 
 Concrete mix selection involves a trade-off: a formulation must meet a required compressive strength, but adding more binder or cement is not necessarily the most efficient choice.
